@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "352856269124",
+    "firebase_url": "https://baitaplon-3c6e3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "baitaplon-3c6e3",
+    "storage_bucket": "baitaplon-3c6e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352856269124:android:1dbdafcc50697ea395f711",
+        "android_client_info": {
+          "package_name": "com.company.baitaplon1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZqFf6016RlyEDx84OuBqCTNpBmJC93Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352856269124:android:763d9eadbae4967d95f711",
+        "android_client_info": {
+          "package_name": "com.example.baitaplon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZqFf6016RlyEDx84OuBqCTNpBmJC93Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
