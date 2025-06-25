@@ -1,8 +1,0 @@
-.grid-12 {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  gap: 16px;
-}
-.cell {
-  box-sizing: border-box;
-}
