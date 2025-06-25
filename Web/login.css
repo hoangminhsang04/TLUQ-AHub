@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding-top: 85px;
+    /* Để nội dung không bị header che */
+    background-color: #F2F4F7;
+    font-family: Inter, sans-serif;
+}
+
+.header {
+    height: 85px;
+    background-color: #000077;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Grid bên trong header */
+.header-content {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    padding: 0 16px;
+}
+
+/* Logo chiếm 2 cột */
+.logo {
+    grid-column: span 2;
+    font-weight: 900;
+    font-size: 18px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+/* Bọc phần đăng nhập */
+.login-wrapper {
+    margin-top: 32px;
+}
+
+/* Form chiếm cột 4 → 9 = 6 cột */
+.login-form {
+    grid-column: 4 / span 6;
+    padding: 24px;
+}
+
+/* Tiêu đề căn giữa */
+.login-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    color: #000000;
+}
+
+/* Nhóm input */
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.form-group label {
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.form-group input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Nút đăng nhập */
+.btn-login {
+    width: 100%;
+    padding: 12px;
+    background-color: #000077;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-top: 50px;
+}
