@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="grid.css" />
+    <link rel="stylesheet" href="UserManager.css">
+    <script src="https://code.iconify.design/iconify-icon/1.0.8/iconify-icon.min.js"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+</head>
+
+<body>
+    <!-- header  -->
+    <div class="grid-12">
+        <div class="cell header">
+            <!-- header  -->
+            <div class="grid-12 header-content">
+                <!-- logo -->
+                <div class="cell logo" style="grid-column: span 2;">TLU Q&A Hub</div>
+                <!-- tìm kiếm -->
+                <div class="cell search-bar" style="grid-column: span 8;">
+                    <div class="search-wrapper">
+                        <iconify-icon icon="ic:round-search" class="search-icon"></iconify-icon>
+                        <input type="text" placeholder="Tìm kiếm người dùng">
+                    </div>
+                </div>
+                <!--  -->
+                <div class="cell user-area" style="grid-column: span 2;">
+                    <div class="user-flex">
+                        <!-- thông báo  -->
+                        <div class="notify-circle" onclick="toggleNotificationDropdown()">
+                            <iconify-icon icon="mdi:bell-outline" width="20" height="20"></iconify-icon>
+
+                        </div>
+                        <!-- ảnh đại diện -->
+                        <div class="avatar-wrapper">
+                            <img id="avatarImg" src="" alt="avatar">
+                            <div class="dropdown-circle">
+                                <iconify-icon icon="mdi:chevron-down" class="dropdown-icon" width="16"
+                                    height="16"></iconify-icon>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- container -->
+    <div class="grid-12 main-layout">
+        <!-- left  -->
+        <div class="cell leftbar" style="grid-column: span 2;">
+            <!-- điều hướng -->
+            <div class="leftbar-box">
+                <a href="home.html" class="nav-item">
+                    <iconify-icon icon="mdi:post-outline" class="icon-size"
+                        style="font-size: 40px; color: #000077;"></iconify-icon>
+                    <span>Bài viết</span>
+                </a>
+
+                <a href="UserManager.html" class="nav-item">
+                    <iconify-icon icon="material-symbols:person-outline" class="icon-size"
+                        style="font-size: 40px; color: #1A73E8;"></iconify-icon>
+                    <span>Người dùng</span>
+                </a>
+
+                <a href="TagManager.html" class="nav-item">
+                    <iconify-icon icon="mdi:tag-multiple-outline" class="icon-size"
+                        style="font-size: 40px; color: #F9A825;"></iconify-icon>
+                    <span>Thẻ</span>
+                </a>
+
+                <a href="moderation.html" class="nav-item">
+                    <iconify-icon icon="material-symbols:verified-user" class="icon-size"
+                        style="font-size: 40px; color: #D32F2F;"></iconify-icon>
+                    <span>Kiểm duyệt</span>
+                </a>
+            </div>
+        </div>
+        <!-- bảng -->
+        <div class="user-table-container" style="grid-column: span 9;">
+            <!-- Nút thêm người dùng -->
+            <div style="margin-bottom: 12px; display: flex; justify-content: flex-end;">
+                <button onclick="openAddUserModal()"
+                    style="padding: 8px 16px; background-color: #1A73E8; color: white; border: none; border-radius: 4px; cursor: pointer;">
+                    + Thêm người dùng
+                </button>
+            </div>
+
+            <table class="user-table">
+                <thead>
+                    <tr>
+                        <th>STT</th>
+                        <th>Họ và tên</th>
+                        <th>Ngày sinh</th>
+                        <th>Quê quán</th>
+                        <th>Giới tính</th>
+                        <th>Email</th>
+                        <th>Điểm uy tín</th>
+                    </tr>
+                </thead>
+                <tbody id="userTableBody">
+                    <!-- Dữ liệu sẽ được thêm ở đây bằng JavaScript -->
+                </tbody>
+            </table>
+            </table>
+            <div id="pagination" class="pagination"></div>
+
+
+        </div>
+    </div>
+    <!-- Modal thêm người dùng -->
+    <div id="addUserModal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Thêm người dùng</h3>
+                <div class="modal-close" onclick="closeAddUserModal()">
+                    <iconify-icon icon="mdi:close" width="20" height="20"></iconify-icon>
+                </div>
+            </div>
+
+
+            <div class="modal-body">
+                <div class="input-group">
+                    <label for="userFullName">Họ và tên</label>
+                    <input type="text" id="userFullName" />
+                </div>
+                <div class="input-group">
+                    <label for="userEmail">Email</label>
+                    <input type="email" id="userEmail" />
+                </div>
+                <div class="input-group">
+                    <label for="userPassword">Mật khẩu</label>
+                    <input type="password" id="userPassword" />
+                </div>
+
+                <div class="input-group">
+                    <label for="userBirthDate">Ngày sinh</label>
+                    <input type="date" id="userBirthDate" />
+                </div>
+
+                <div class="input-group">
+                    <label for="userHometown">Quê quán</label>
+                    <input type="text" id="userHometown" />
+                </div>
+
+                <div class="input-group">
+                    <label for="userGender">Giới tính</label>
+                    <select id="userGender">
+                        <option value="Nam">Nam</option>
+                        <option value="Nữ">Nữ</option>
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label for="userRole">Vai trò</label>
+                    <select id="userRole">
+                        <option value="R1">Quản trị viên</option>
+                        <option value="R2">Người dùng</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="submit-button">
+                <button onclick="submitNewUser()">Thêm người dùng</button>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Toast thông báo -->
+    <div id="toast" style="
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    display: none;
+    z-index: 1000;
+    font-size: 14px;
+">
+    </div>
+
+    <script type="module" src="UserManager.js"></script>
+
+</body>
+
+</html>
