@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://baitaplon-3c6e3-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">352856269124</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZqFf6016RlyEDx84OuBqCTNpBmJC93Dw</string>
+    <string name="google_app_id" translatable="false">1:352856269124:android:763d9eadbae4967d95f711</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZqFf6016RlyEDx84OuBqCTNpBmJC93Dw</string>
+    <string name="google_storage_bucket" translatable="false">baitaplon-3c6e3.firebasestorage.app</string>
+    <string name="project_id" translatable="false">baitaplon-3c6e3</string>
+</resources>
