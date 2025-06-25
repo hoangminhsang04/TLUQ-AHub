@@ -57,17 +57,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d98bc3d-895c-48a6-ad41-10def65182fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/baitaplon/TimeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/androidTest/java/com/example/baitaplon/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/AdminActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/PostDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/TimeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/UserActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/adapters/AnswerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/adapters/PostAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/adapters/TagSuggestionAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/models/Answer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/models/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/models/QuestionTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/models/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/models/Tag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/java/com/example/baitaplon/models/Vote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/anhdaidien.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/create.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/iconamoon_comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/ionsearch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/logotlu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/magefilter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/ph_medal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/search_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/drawable/unlike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/activity_admin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/activity_post_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/activity_user.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/dialog_create_post.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/item_comment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/item_post.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/layout/item_tag_suggestion.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/app/src/test/java/com/example/baitaplon/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Andoid/settings.gradle.kts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +150,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\tpmin\.android\avd\Medium_Phone.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -86,7 +159,17 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="baitaplon" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -115,18 +198,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Android App.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/TLUQ-AHub/Android"
+    "last_opened_file_path": "C:/Users/DELL/Downloads/baitaplon"
   }
 }]]></component>
   <component name="RecentsManager">

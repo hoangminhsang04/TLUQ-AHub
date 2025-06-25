@@ -1,46 +1,46 @@
-com.example.baitaplon.app-lifecycle-process-2.6.2-0 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\019473b8d3a0985787b8b830cee573df\transformed\lifecycle-process-2.6.2\res
-com.example.baitaplon.app-glide-4.16.0-1 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\0a508e8d0b0243e2769e10b5f690f7cb\transformed\glide-4.16.0\res
-com.example.baitaplon.app-core-runtime-2.2.0-2 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\0ca4f64f8cc39e64b8fe1100abdf4fe0\transformed\core-runtime-2.2.0\res
-com.example.baitaplon.app-annotation-experimental-1.4.0-3 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\1217c430be053bf55f3611f96eaa92be\transformed\annotation-experimental-1.4.0\res
-com.example.baitaplon.app-play-services-base-18.1.0-4 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\15067ed27c5d54f521c6f529dfe6fbb1\transformed\play-services-base-18.1.0\res
-com.example.baitaplon.app-emoji2-views-helper-1.3.0-5 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\186c1072284335fb167c07005b10c89b\transformed\emoji2-views-helper-1.3.0\res
-com.example.baitaplon.app-lifecycle-viewmodel-savedstate-2.6.2-6 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\22156dfda98f038893b13779cc2ac071\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
-com.example.baitaplon.app-core-ktx-1.13.0-7 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\28bdc8be7a96d7f89514b87eca0c1335\transformed\core-ktx-1.13.0\res
-com.example.baitaplon.app-core-viewtree-1.0.0-8 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\329598a62f8d87c84b74efcb6b014acf\transformed\core-viewtree-1.0.0\res
-com.example.baitaplon.app-firebase-common-21.0.0-9 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\3527d797b55bd470fab4a476ac17b65a\transformed\firebase-common-21.0.0\res
-com.example.baitaplon.app-transition-1.5.0-10 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\4c1cabf49fc7d563eb82f28da896c81d\transformed\transition-1.5.0\res
-com.example.baitaplon.app-credentials-play-services-auth-1.2.0-rc01-11 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\525d7ce55dfdf2e0d5183612eb978549\transformed\credentials-play-services-auth-1.2.0-rc01\res
-com.example.baitaplon.app-lifecycle-livedata-2.6.2-12 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\587b3c3c711476193805209a41c91d2b\transformed\lifecycle-livedata-2.6.2\res
-com.example.baitaplon.app-material-1.12.0-13 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\5ce0e8677230cb66a6748b5351a3754e\transformed\material-1.12.0\res
-com.example.baitaplon.app-play-services-auth-20.7.0-14 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\5cfb027fe73299121fa45d4fdaf69d72\transformed\play-services-auth-20.7.0\res
-com.example.baitaplon.app-lifecycle-livedata-core-2.6.2-15 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\5e6399c5d9549f5f2d0c3f78005296e0\transformed\lifecycle-livedata-core-2.6.2\res
-com.example.baitaplon.app-viewpager2-1.1.0-beta02-16 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\619d26b9e22e47aec64bb5960efe736b\transformed\viewpager2-1.1.0-beta02\res
-com.example.baitaplon.app-customview-poolingcontainer-1.0.0-17 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\717e350aefd35428c637f0d4421142eb\transformed\customview-poolingcontainer-1.0.0\res
-com.example.baitaplon.app-appcompat-1.7.1-18 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\71c86b47291a9d200c3a4e07c7fe746f\transformed\appcompat-1.7.1\res
-com.example.baitaplon.app-browser-1.4.0-19 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\7b066df5c858ff5414dc0004b50bbf42\transformed\browser-1.4.0\res
-com.example.baitaplon.app-activity-1.10.1-20 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\8510d34f49b62acc097fb0f8a9607bdd\transformed\activity-1.10.1\res
-com.example.baitaplon.app-credentials-1.2.0-rc01-21 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\86abba4b7bbe2a784fe09e8ea42c0803\transformed\credentials-1.2.0-rc01\res
-com.example.baitaplon.app-profileinstaller-1.4.0-22 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\8d3bbffc0ab7d9efd8f77c69bbc69485\transformed\profileinstaller-1.4.0\res
-com.example.baitaplon.app-constraintlayout-2.2.1-23 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\a325e27ee2ae346a7cbd559c4e6e0132\transformed\constraintlayout-2.2.1\res
-com.example.baitaplon.app-cardview-1.0.0-24 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\b8a88ec02444e58aaaf354f41b01ea41\transformed\cardview-1.0.0\res
-com.example.baitaplon.app-coordinatorlayout-1.1.0-25 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\bc7a67ba9b74a21270507c352a07d52b\transformed\coordinatorlayout-1.1.0\res
-com.example.baitaplon.app-fragment-1.5.4-26 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\bd855dd877afecca04fd0bec26d714d7\transformed\fragment-1.5.4\res
-com.example.baitaplon.app-startup-runtime-1.1.1-27 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\be06dfe3c628f973e41780ae495fd111\transformed\startup-runtime-1.1.1\res
-com.example.baitaplon.app-core-common-2.0.3-28 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\c8d7d1c4594072b28a667cc1b08f18fe\transformed\core-common-2.0.3\res
-com.example.baitaplon.app-play-services-basement-18.4.0-29 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\c9d8a52e7feedb6a33d0995a822ff623\transformed\play-services-basement-18.4.0\res
-com.example.baitaplon.app-lifecycle-viewmodel-2.6.2-30 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\d7ae6d2245f53aee1fb6085e2b130104\transformed\lifecycle-viewmodel-2.6.2\res
-com.example.baitaplon.app-savedstate-1.2.1-31 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\dd1c50b44b94ac83324ee252f99d947c\transformed\savedstate-1.2.1\res
-com.example.baitaplon.app-drawerlayout-1.1.1-32 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\ddc30661cf53ce09fedbfa8d70e1248c\transformed\drawerlayout-1.1.1\res
-com.example.baitaplon.app-emoji2-1.3.0-33 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\de3c93455c204ce22e441d55cd482844\transformed\emoji2-1.3.0\res
-com.example.baitaplon.app-lifecycle-runtime-2.6.2-34 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\ded237616cd3617776f54b6b8068be57\transformed\lifecycle-runtime-2.6.2\res
-com.example.baitaplon.app-appcompat-resources-1.7.1-35 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\e21d73cd770517088fad5043c0ba935b\transformed\appcompat-resources-1.7.1\res
-com.example.baitaplon.app-recyclerview-1.4.0-36 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\eb0a20e1c3ab39c6fa2141140454de6b\transformed\recyclerview-1.4.0\res
-com.example.baitaplon.app-core-1.13.0-37 C:\Users\tpmin\.gradle\caches\8.11.1\transforms\f38ae94bd5b4419cfe8363eed7b81fa0\transformed\core-1.13.0\res
-com.example.baitaplon.app-pngs-38 D:\TLUQ-AHub\Android\app\build\generated\res\pngs\debug
-com.example.baitaplon.app-res-39 D:\TLUQ-AHub\Android\app\build\generated\res\processDebugGoogleServices
-com.example.baitaplon.app-resValues-40 D:\TLUQ-AHub\Android\app\build\generated\res\resValues\debug
-com.example.baitaplon.app-packageDebugResources-41 D:\TLUQ-AHub\Android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.baitaplon.app-packageDebugResources-42 D:\TLUQ-AHub\Android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.baitaplon.app-debug-43 D:\TLUQ-AHub\Android\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.baitaplon.app-debug-44 D:\TLUQ-AHub\Android\app\src\debug\res
-com.example.baitaplon.app-main-45 D:\TLUQ-AHub\Android\app\src\main\res
+com.example.baitaplon.app-lifecycle-process-2.6.2-0 C:\Users\DELL\.gradle\caches\8.11.1\transforms\019473b8d3a0985787b8b830cee573df\transformed\lifecycle-process-2.6.2\res
+com.example.baitaplon.app-glide-4.16.0-1 C:\Users\DELL\.gradle\caches\8.11.1\transforms\0a508e8d0b0243e2769e10b5f690f7cb\transformed\glide-4.16.0\res
+com.example.baitaplon.app-core-runtime-2.2.0-2 C:\Users\DELL\.gradle\caches\8.11.1\transforms\0ca4f64f8cc39e64b8fe1100abdf4fe0\transformed\core-runtime-2.2.0\res
+com.example.baitaplon.app-annotation-experimental-1.4.0-3 C:\Users\DELL\.gradle\caches\8.11.1\transforms\1217c430be053bf55f3611f96eaa92be\transformed\annotation-experimental-1.4.0\res
+com.example.baitaplon.app-play-services-base-18.1.0-4 C:\Users\DELL\.gradle\caches\8.11.1\transforms\15067ed27c5d54f521c6f529dfe6fbb1\transformed\play-services-base-18.1.0\res
+com.example.baitaplon.app-emoji2-views-helper-1.3.0-5 C:\Users\DELL\.gradle\caches\8.11.1\transforms\186c1072284335fb167c07005b10c89b\transformed\emoji2-views-helper-1.3.0\res
+com.example.baitaplon.app-lifecycle-viewmodel-savedstate-2.6.2-6 C:\Users\DELL\.gradle\caches\8.11.1\transforms\22156dfda98f038893b13779cc2ac071\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.baitaplon.app-core-ktx-1.13.0-7 C:\Users\DELL\.gradle\caches\8.11.1\transforms\28bdc8be7a96d7f89514b87eca0c1335\transformed\core-ktx-1.13.0\res
+com.example.baitaplon.app-core-viewtree-1.0.0-8 C:\Users\DELL\.gradle\caches\8.11.1\transforms\329598a62f8d87c84b74efcb6b014acf\transformed\core-viewtree-1.0.0\res
+com.example.baitaplon.app-firebase-common-21.0.0-9 C:\Users\DELL\.gradle\caches\8.11.1\transforms\3527d797b55bd470fab4a476ac17b65a\transformed\firebase-common-21.0.0\res
+com.example.baitaplon.app-transition-1.5.0-10 C:\Users\DELL\.gradle\caches\8.11.1\transforms\4c1cabf49fc7d563eb82f28da896c81d\transformed\transition-1.5.0\res
+com.example.baitaplon.app-credentials-play-services-auth-1.2.0-rc01-11 C:\Users\DELL\.gradle\caches\8.11.1\transforms\525d7ce55dfdf2e0d5183612eb978549\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.baitaplon.app-lifecycle-livedata-2.6.2-12 C:\Users\DELL\.gradle\caches\8.11.1\transforms\587b3c3c711476193805209a41c91d2b\transformed\lifecycle-livedata-2.6.2\res
+com.example.baitaplon.app-material-1.12.0-13 C:\Users\DELL\.gradle\caches\8.11.1\transforms\5ce0e8677230cb66a6748b5351a3754e\transformed\material-1.12.0\res
+com.example.baitaplon.app-play-services-auth-20.7.0-14 C:\Users\DELL\.gradle\caches\8.11.1\transforms\5cfb027fe73299121fa45d4fdaf69d72\transformed\play-services-auth-20.7.0\res
+com.example.baitaplon.app-lifecycle-livedata-core-2.6.2-15 C:\Users\DELL\.gradle\caches\8.11.1\transforms\5e6399c5d9549f5f2d0c3f78005296e0\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.baitaplon.app-viewpager2-1.1.0-beta02-16 C:\Users\DELL\.gradle\caches\8.11.1\transforms\619d26b9e22e47aec64bb5960efe736b\transformed\viewpager2-1.1.0-beta02\res
+com.example.baitaplon.app-customview-poolingcontainer-1.0.0-17 C:\Users\DELL\.gradle\caches\8.11.1\transforms\717e350aefd35428c637f0d4421142eb\transformed\customview-poolingcontainer-1.0.0\res
+com.example.baitaplon.app-appcompat-1.7.1-18 C:\Users\DELL\.gradle\caches\8.11.1\transforms\71c86b47291a9d200c3a4e07c7fe746f\transformed\appcompat-1.7.1\res
+com.example.baitaplon.app-browser-1.4.0-19 C:\Users\DELL\.gradle\caches\8.11.1\transforms\7b066df5c858ff5414dc0004b50bbf42\transformed\browser-1.4.0\res
+com.example.baitaplon.app-activity-1.10.1-20 C:\Users\DELL\.gradle\caches\8.11.1\transforms\8510d34f49b62acc097fb0f8a9607bdd\transformed\activity-1.10.1\res
+com.example.baitaplon.app-credentials-1.2.0-rc01-21 C:\Users\DELL\.gradle\caches\8.11.1\transforms\86abba4b7bbe2a784fe09e8ea42c0803\transformed\credentials-1.2.0-rc01\res
+com.example.baitaplon.app-profileinstaller-1.4.0-22 C:\Users\DELL\.gradle\caches\8.11.1\transforms\8d3bbffc0ab7d9efd8f77c69bbc69485\transformed\profileinstaller-1.4.0\res
+com.example.baitaplon.app-constraintlayout-2.2.1-23 C:\Users\DELL\.gradle\caches\8.11.1\transforms\a325e27ee2ae346a7cbd559c4e6e0132\transformed\constraintlayout-2.2.1\res
+com.example.baitaplon.app-cardview-1.0.0-24 C:\Users\DELL\.gradle\caches\8.11.1\transforms\b8a88ec02444e58aaaf354f41b01ea41\transformed\cardview-1.0.0\res
+com.example.baitaplon.app-coordinatorlayout-1.1.0-25 C:\Users\DELL\.gradle\caches\8.11.1\transforms\bc7a67ba9b74a21270507c352a07d52b\transformed\coordinatorlayout-1.1.0\res
+com.example.baitaplon.app-fragment-1.5.4-26 C:\Users\DELL\.gradle\caches\8.11.1\transforms\bd855dd877afecca04fd0bec26d714d7\transformed\fragment-1.5.4\res
+com.example.baitaplon.app-startup-runtime-1.1.1-27 C:\Users\DELL\.gradle\caches\8.11.1\transforms\be06dfe3c628f973e41780ae495fd111\transformed\startup-runtime-1.1.1\res
+com.example.baitaplon.app-core-common-2.0.3-28 C:\Users\DELL\.gradle\caches\8.11.1\transforms\c8d7d1c4594072b28a667cc1b08f18fe\transformed\core-common-2.0.3\res
+com.example.baitaplon.app-play-services-basement-18.4.0-29 C:\Users\DELL\.gradle\caches\8.11.1\transforms\c9d8a52e7feedb6a33d0995a822ff623\transformed\play-services-basement-18.4.0\res
+com.example.baitaplon.app-lifecycle-viewmodel-2.6.2-30 C:\Users\DELL\.gradle\caches\8.11.1\transforms\d7ae6d2245f53aee1fb6085e2b130104\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.baitaplon.app-savedstate-1.2.1-31 C:\Users\DELL\.gradle\caches\8.11.1\transforms\dd1c50b44b94ac83324ee252f99d947c\transformed\savedstate-1.2.1\res
+com.example.baitaplon.app-drawerlayout-1.1.1-32 C:\Users\DELL\.gradle\caches\8.11.1\transforms\ddc30661cf53ce09fedbfa8d70e1248c\transformed\drawerlayout-1.1.1\res
+com.example.baitaplon.app-emoji2-1.3.0-33 C:\Users\DELL\.gradle\caches\8.11.1\transforms\de3c93455c204ce22e441d55cd482844\transformed\emoji2-1.3.0\res
+com.example.baitaplon.app-lifecycle-runtime-2.6.2-34 C:\Users\DELL\.gradle\caches\8.11.1\transforms\ded237616cd3617776f54b6b8068be57\transformed\lifecycle-runtime-2.6.2\res
+com.example.baitaplon.app-appcompat-resources-1.7.1-35 C:\Users\DELL\.gradle\caches\8.11.1\transforms\e21d73cd770517088fad5043c0ba935b\transformed\appcompat-resources-1.7.1\res
+com.example.baitaplon.app-recyclerview-1.4.0-36 C:\Users\DELL\.gradle\caches\8.11.1\transforms\eb0a20e1c3ab39c6fa2141140454de6b\transformed\recyclerview-1.4.0\res
+com.example.baitaplon.app-core-1.13.0-37 C:\Users\DELL\.gradle\caches\8.11.1\transforms\f38ae94bd5b4419cfe8363eed7b81fa0\transformed\core-1.13.0\res
+com.example.baitaplon.app-pngs-38 F:\hoc android\baitaplon\app\build\generated\res\pngs\debug
+com.example.baitaplon.app-res-39 F:\hoc android\baitaplon\app\build\generated\res\processDebugGoogleServices
+com.example.baitaplon.app-resValues-40 F:\hoc android\baitaplon\app\build\generated\res\resValues\debug
+com.example.baitaplon.app-packageDebugResources-41 F:\hoc android\baitaplon\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.baitaplon.app-packageDebugResources-42 F:\hoc android\baitaplon\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.baitaplon.app-debug-43 F:\hoc android\baitaplon\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.baitaplon.app-debug-44 F:\hoc android\baitaplon\app\src\debug\res
+com.example.baitaplon.app-main-45 F:\hoc android\baitaplon\app\src\main\res

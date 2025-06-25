@@ -4,7 +4,7 @@
             "outputFile": "com.example.baitaplon.app-mergeDebugResources-41:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tpmin\\.gradle\\caches\\8.11.1\\transforms\\71c86b47291a9d200c3a4e07c7fe746f\\transformed\\appcompat-1.7.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\8.11.1\\transforms\\71c86b47291a9d200c3a4e07c7fe746f\\transformed\\appcompat-1.7.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

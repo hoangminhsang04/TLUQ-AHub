@@ -4,7 +4,7 @@
             "outputFile": "com.example.baitaplon.app-mergeDebugResources-41:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tpmin\\.gradle\\caches\\8.11.1\\transforms\\71c86b47291a9d200c3a4e07c7fe746f\\transformed\\appcompat-1.7.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\8.11.1\\transforms\\71c86b47291a9d200c3a4e07c7fe746f\\transformed\\appcompat-1.7.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\tpmin\\.gradle\\caches\\8.11.1\\transforms\\5ce0e8677230cb66a6748b5351a3754e\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\8.11.1\\transforms\\5ce0e8677230cb66a6748b5351a3754e\\transformed\\material-1.12.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
